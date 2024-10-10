@@ -64,7 +64,7 @@ This project implements an Extended Kalman Filter (EKF) for state estimation of 
 
 ## Example Output
 
-![Example Plot](path_to_example_plot.png)
+![Example Plot](plot.png)
 
 ## Contributions
 
